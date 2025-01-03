@@ -16,7 +16,7 @@ somewhere else in this repository
 |--------------------------------|-----------------------------------|--------------------------|---------------------|
 | **naive method/defalut**       | O(n<sup>2</sup>)                  | = n<sup>2</sup>          |soon                 |
 | **Karatsuba**                  | O(n<sup>log(3)/log(2)</sup>)               | ≈ n<sup>1.585</sup>      |soon                 |
-| **Toom-Cook (Toom-3)**         | O(n<sup>$\frac{log(5)}{log(3)}</sup>)               | ≈ n<sup>1.464</sup>      |soon                 |
+| **Toom-Cook (Toom-3)**         | O(n<sup>$\frac{log(5)}{log(3)}$</sup>)               | ≈ n<sup>1.464</sup>      |soon                 |
 | **Schönhage-Strassen (FFT)**   | O(n\*log(n)\*log(log(n)))         | ≈ n\*log(n)\*log(log(n)) |soon                 |
 | **Fürer (theoretical optima)** | O(n\*log(n))                      | ≈ n\*log(n)              |soon                 |
 
