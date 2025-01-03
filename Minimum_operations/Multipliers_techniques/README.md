@@ -29,5 +29,10 @@ sources :
 - [Karatsuba algorithm, YT channel by __PurpleMind__](https://www.youtube.com/watch?v=AMl6EJHfUWo)
 - Furer's work : [educational PDF document from himself](https://ivv5hpp.uni-muenster.de/u/cl/WS2007-8/mult.pdf)
 
-- 
+
+
+
+
+
+
 <!--end page-->
