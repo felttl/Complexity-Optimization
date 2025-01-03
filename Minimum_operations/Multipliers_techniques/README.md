@@ -20,9 +20,9 @@ somewhere else in this repository
 | **Schönhage-Strassen (FFT)**    | O(n\*log(n)\*log(log(n)))         | ≈ n\*log(n)\*log(log(n)) |soon                 |
 | **Fürer (theoretical optimal)** | O(n\*log(n))                      | ≈ n\*log(n)              |soon                 |
 
-![imgs/graphc.png]
+![can't load image](./imgs/graphc.png)
 
-graph available at (this)[https://www.google.com/search?q=x%5E%282%29%2C++++++++x%5E%281%2C585%29%2C+x%5E%281%2C464%29%2C+x*log%28x%29&sca_esv=82f58710a97753db&sxsrf=ADLYWIJraRg5vd5wNTJmg8NQkrAETTkZuw%3A1735927503573&ei=zyZ4Z5fAIquFxc8PqvywmQc&ved=0ahUKEwjX49LxkdqKAxWrQvEDHSo-LHMQ4dUDCBA&uact=5&oq=x%5E%282%29%2C++++++++x%5E%281%2C585%29%2C+x%5E%281%2C464%29%2C+x*log%28x%29&gs_lp=Egxnd3Mtd2l6LXNlcnAiLHheKDIpLCAgICAgICAgeF4oMSw1ODUpLCB4XigxLDQ2NCksIHgqbG9nKHgpMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSKsFUPQDWPQDcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACAJgDAIgGAZAGApIHATGgBwA&sclient=gws-wiz-serp] google page
+graph available at [this](https://www.google.com/search?q=x%5E%282%29%2C++++++++x%5E%281%2C585%29%2C+x%5E%281%2C464%29%2C+x*log%28x%29&sca_esv=82f58710a97753db&sxsrf=ADLYWIJraRg5vd5wNTJmg8NQkrAETTkZuw%3A1735927503573&ei=zyZ4Z5fAIquFxc8PqvywmQc&ved=0ahUKEwjX49LxkdqKAxWrQvEDHSo-LHMQ4dUDCBA&uact=5&oq=x%5E%282%29%2C++++++++x%5E%281%2C585%29%2C+x%5E%281%2C464%29%2C+x*log%28x%29&gs_lp=Egxnd3Mtd2l6LXNlcnAiLHheKDIpLCAgICAgICAgeF4oMSw1ODUpLCB4XigxLDQ2NCksIHgqbG9nKHgpMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSKsFUPQDWPQDcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACAJgDAIgGAZAGApIHATGgBwA&sclient=gws-wiz-serp) google page
 
 sources : 
 
