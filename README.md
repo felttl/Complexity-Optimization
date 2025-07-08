@@ -1,6 +1,6 @@
 # Complexity-Optimization
 
-### you can navigate to you point of interest with the map bellow
+### you can navigate to your point of interest with the map bellow
 all readme.md files may interest you (other are structure files)
 ```txt
 .
